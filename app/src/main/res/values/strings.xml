@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Roman Numeral Converter</string>
+    <string name="instructions">Enter a roman numeral below. Click \'Convert to Number\' to convert the roman numeral to the number it represents.</string>
+    <string name="convert_button_text">Convert to Number</string>
+    <string name="roman_numeral_hint">Roman Numeral</string>
+    <string name="roman_numeral_helper">(e. g. MCVXIII)</string>
+    <string name="convert_another">Convert another Roman numeral</string>
+    <string name="equals_character">=</string>
+</resources>
